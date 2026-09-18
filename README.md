@@ -10,7 +10,7 @@ Every experiment follows the scientific hypothesis validation framework[cite: 5]
 
 ## Repository Structure
 
-```text
+```
 DSP_Assgn1_Codes/
 ├── images/
 │   ├── exp1_signal_operations.png
@@ -31,6 +31,8 @@ DSP_Assgn1_Codes/
 ├── pyproject.toml
 ├── README.md
 └── uv.lock
+```
+
 
 
 ## Setup & Environment Installation
@@ -46,7 +48,6 @@ We recommend using an isolated virtual environment (`venv`) to run these scripts
 ```bash
 git clone https://github.com/<your-username>/DSP_Assgn1_Codes.git
 cd DSP_Assgn1_Codes
-```
 
 2. **Sync dependencies (auto-creates venv):**
 
