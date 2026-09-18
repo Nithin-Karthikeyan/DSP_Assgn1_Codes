@@ -57,8 +57,8 @@ ax.set_title(
 )
 ax.set_xlabel('Sample Index $n$', fontsize=10)
 ax.set_ylabel('Amplitude', fontsize=10)
-ax.set_xlim(0, 127)
-ax.set_ylim(-0.4, 1.2)
+ax.set_xlim(0, 130)
+ax.set_ylim(-0.4, 2.5)
 ax.grid(True, linestyle=':', alpha=0.6)
 ax.legend(loc='upper right', fontsize=9)
 
